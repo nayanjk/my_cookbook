@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+  },
+  "groupings": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "recommendations": {
+  },
+  "version": "0.0.1",
+  "platforms": {
+  },
+  "description": "Installs/Configures log_hello",
+  "providing": {
+  },
+  "suggestions": {
+  },
+  "recipes": {
+    "log_hello:default": "prints a message"
+  },
+  "replacing": {
+  },
+  "license": "All rights reserved",
+  "maintainer_email": "YOUR_EMAIL",
+  "name": "log_hello",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n"
+}
